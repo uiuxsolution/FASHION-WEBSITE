@@ -1,2 +1,1 @@
-# FASHION-WEBSITE
-BUILD ON HTML/CSS/JS
+This directory contains all the images used in the fashion website.
